@@ -27,3 +27,4 @@ cs_network_ipam_iprange: "{{
 cs_dir: '/opt/docker/cobaltstrike'
 cs_ports:
   - "50050:50050"
+  - "50443:50443"
